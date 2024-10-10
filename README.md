@@ -1,1 +1,1 @@
-# my_laravel
+# installing and setting up laravel
